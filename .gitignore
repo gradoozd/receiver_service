@@ -1,0 +1,5 @@
+/node_modules/
+/xsd_xml/
+/package-lock.json
+/.env
+/mock_service.sqlite
